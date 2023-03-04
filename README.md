@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/78193662/222885811-dd9cc1c4-f1a3-4594-b444-37df8d4ca778.png)
 
-🌱 I’m currently learning anout Full-stack development(MERN stack) and web3 technologies.   
+🌱 I’m currently learning about Full-stack development(MERN stack) and web3 technologies.   
 
 👯 I’m looking to collaborate on above mentioned areas.   
 
