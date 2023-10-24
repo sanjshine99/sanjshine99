@@ -1,22 +1,22 @@
-### Hi there I'm Sanjana Bandara👋
+👋 Hello World! I'm Sanjana Bandara, a passionate Software Engineer and Entrepreneur based in Sri Lanka. I'm currently pursuing my BSc (Hons) in Computer Science (Software Engineering) and hold a Higher National Diploma (HND) in Software Engineering from the University of Colombo School of Computing.
 
-<!--
-**sanjshine99/sanjshine99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 About Me:**
+I thrive on transforming innovative ideas into functional code. My interests span from full-stack web development to mobile applications, and I love exploring the intersections of technology and entrepreneurship.
 
-Here are some ideas to get you started:
+**💻 Tech Stack:**
+MERN stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔍 What I'm Currently Working On:**
+I'm diving deep into my software engineering studies, focusing on software architecture and API design. Additionally, I'm working on exciting projects related to the MERN stack.
 
-🌱 I’m currently learning about Full-stack development(MERN stack) and web3 technologies.   
+**🌱 What I'm Learning:**
+I'm passionate about continuous learning. Currently, I'm exploring SpringBoot, Angular, and AWS. Always open to learning new things and collaborating on interesting projects!
 
-👯 I’m looking to collaborate on above mentioned areas.   
+**🤝 Let's Connect:**
+I'm keen on collaborating with fellow developers, entrepreneurs, and tech enthusiasts. Whether it's coding, startup ventures, or discussing the latest tech trends, I'm all ears. Let's build something amazing together!
 
-⚡ Fun fact: I'm a dog lover.
+**📫 How to Reach Me:**
+- LinkedIn: (https://www.linkedin.com/in/sanjana-bandara/)
+- Email: sanjanabandarajourny@gmail.com
+
+Looking forward to connecting with the brilliant minds in the GitHub community. Happy coding!
